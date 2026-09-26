@@ -27,7 +27,7 @@ for (const image of images) {
 }
 
 const svg = makeBadge({
-  label: 'image pulls',
+  label: 'docker pulls',
   message: formatCount(total),
   color: 'blue',
 });
