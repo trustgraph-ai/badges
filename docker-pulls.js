@@ -11,6 +11,11 @@ const images = [
   'trustgraph-mcp',
   'trustgraph-hf',
   'trustgraph-ocr',
+  'trustgraph-unstructured',
+  'trustgraph-ddg-mcp-server',
+  'workbench-ui',
+  'ipex-llm-service-xpu',
+  'vllm-hpu',
 ];
 
 function formatCount(pulls) {
